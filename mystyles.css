@@ -54,7 +54,7 @@ nav {
 .product {
     width: 80%;
     padding: 10px;
-     padding-top: 50px;
+    padding-top: 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
